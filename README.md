@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Umrani</h1>
+- 📖 Currently Reading **Ikigai: Japanese secret to long and happy life - Héctor García & Francesc Miralles**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/shantanuumrani1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shantanuumrani1109" height="30" width="40" /></a>
@@ -12,4 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanuumrani1109&show_icons=true&locale=en" alt="shantanuumrani1109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanuumrani1109&" alt="shantanuumrani1109" /></p>
+
 
