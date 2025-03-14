@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Umrani</h1>
 
-### 📚 Currently Reading  
+## 📚 Currently Reading  
 **Ikigai: The Japanese Secret to a Long and Happy Life**  
 *by Héctor García & Francesc Miralles*
 
