@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5ba3a077600423.5c6672b80d7a9.gif" width="100%">
-</p>
-
-
-
 <h1 align="center">Hi 👋, I'm Shantanu Umrani</h1>
 <h3 align="center">A passionate Data Scientist & AI Enthusiast</h3>
 
