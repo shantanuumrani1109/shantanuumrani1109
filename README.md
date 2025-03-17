@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F75FF&center=true&width=450&lines=Data+Scientist+|+AI+Enthusiast;Power+BI+Developer+|+Computer+Vision+|+ETL;Always+learning+something+new!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F75FF&center=true&width=450&lines=Always+learning+something+new!">
 </p>
 
 ---
