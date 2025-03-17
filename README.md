@@ -1,3 +1,8 @@
+<!-- Night Sky Background -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74366668/193437093-2e8d36e4-26b7-47cc-b506-f6d786da0f24.gif" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shantanu Umrani</h1>
 <h3 align="center">A passionate Data Scientist & AI Enthusiast</h3>
 
