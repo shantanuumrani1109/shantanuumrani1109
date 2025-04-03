@@ -52,8 +52,8 @@
 ---
 
 ## 📚 Currently Reading  
-📖 **Ikigai: The Japanese Secret to a Long and Happy Life**  
-*by Héctor García & Francesc Miralles*  
+📖 **The Psychology of Money**  
+*by Morgan House*  
 
 ---
 
