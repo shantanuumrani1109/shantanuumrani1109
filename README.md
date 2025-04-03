@@ -53,7 +53,7 @@
 
 ## 📚 Currently Reading  
 📖 **The Psychology of Money**  
-*by Morgan House*  
+*by Morgan Housel*  
 
 ---
 
