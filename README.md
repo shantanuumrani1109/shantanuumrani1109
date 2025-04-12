@@ -1,54 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shantanu Umrani</h1>
-<h3 align="center">A passionate Data Scientist & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F75FF&center=true&width=450&lines=Always+learning+something+new!">
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shantanu-umrani/) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shantanuumrani1109&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shantanuumrani1109&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuumrani1109&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Languages & Tools  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shantanuumrani1109&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanuumrani1109&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanuumrani1109&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanuumrani1109&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/shantanu-umrani/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/shantanuumrani1109" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/shantanuumrani1109" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📚 Currently Reading  
